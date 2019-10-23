@@ -1,5 +1,5 @@
 # IOSSwiftLearnYoutube
-YYoutubeでIOSプログラミングを解説した際に使ったプログラム郡
+YoutubeでIOSプログラミングを解説した際に使ったプログラム郡
 
 
 それぞれのディレクトリについては動画を参照してください
